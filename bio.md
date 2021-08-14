@@ -7,5 +7,5 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="yoda" src="https://cdn.discordapp.com/avatars/376828265006104576/a_9b3117b448bdb863d63d1129485f44be.webp?size=128">
+  <img align="right" alt="yoda" src="https://cdn.discordapp.com/emojis/859088644942069790.gif?v=1">
 </div>
